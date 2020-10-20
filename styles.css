@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(images/blu-bricks.jpg);
+    background-size: contain;
+    background-repeat: repeat;
+    background-attachment: fixed;
+
+}
+header {
+    background: white;
+}
+
+header > h1 {
+    color: #25272E;
+    text-align: center;
+    font-family: Asap,sans-serif;
+}
