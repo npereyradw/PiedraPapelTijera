@@ -43,6 +43,6 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 ## Expresiones de Gratitud 🎁
 
-* Agradezco a los diferentes docentes y menotres que me ayudaron a llegar hasta aquí 📢
+* Agradezco a los diferentes docentes y mentores que me ayudaron a llegar hasta aquí 📢
 * A todos los que esten interesados en visitar mis repositorios.
 
